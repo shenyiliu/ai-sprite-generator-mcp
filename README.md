@@ -2,7 +2,9 @@
 
 Generate pixel-art game assets from your AI editor using the [Model Context Protocol (MCP)](https://modelcontextprotocol.io/). Connect to AI Sprite Generator's hosted server, describe what you need, and let your assistant generate and export sprites into your project.
 
-[Get started](https://www.aispritegenerator.com/mcp) · [Create an API key](https://www.aispritegenerator.com/settings/apikeys) · [AI Sprite Generator](https://www.aispritegenerator.com/)
+**Website:** [https://www.aispritegenerator.com/](https://www.aispritegenerator.com/)
+
+[Get started with MCP](https://www.aispritegenerator.com/mcp) · [Create an API key](https://www.aispritegenerator.com/settings/apikeys)
 
 > This repository documents the hosted MCP integration. It does not contain the server's source code or a self-hosted server.
 
